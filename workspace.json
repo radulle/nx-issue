@@ -3,6 +3,7 @@
   "version": 2,
   "projects": {
     "nx-issue": "apps/nx-issue",
-    "nx-issue-e2e": "apps/nx-issue-e2e"
+    "nx-issue-e2e": "apps/nx-issue-e2e",
+    "nx-issue-lib": "libs/nx-issue-lib"
   }
 }
